@@ -1,6 +1,4 @@
-using Task4;
-
-namespace lab1.Task4
+namespace lab2.Task1
 {
     internal static class Program
     {

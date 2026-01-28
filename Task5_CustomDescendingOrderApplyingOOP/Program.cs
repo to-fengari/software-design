@@ -1,4 +1,6 @@
-namespace Task5_CustomDescendingOrderApplyingOOP
+using Task5_CustomDescendingOrderApplyingOOP;
+
+namespace lab1.Task5.CustomDescendingOrderApplyingOOP
 {
     internal static class Program
     {

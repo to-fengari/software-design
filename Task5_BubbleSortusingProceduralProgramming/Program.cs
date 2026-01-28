@@ -1,4 +1,6 @@
-namespace Task5_BubbleSortusingProceduralProgramming
+using Task5_BubbleSortusingProceduralProgramming;
+
+namespace lab1.Task5.BubbleSortusingProceduralProgramming
 {
     internal static class Program
     {

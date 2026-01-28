@@ -1,4 +1,4 @@
-namespace lab2
+namespace lab2.Task1.lab2.task1
 {
 	internal static class Program
 	{
