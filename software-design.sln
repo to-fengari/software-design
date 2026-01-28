@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week-8", "week-8", "{D5BF8E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week-9", "week-9", "{39C3DAE7-6AAD-4602-BC26-D0CDFCCF20E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1.Task3", "lab1\lab1.Task3.csproj", "{8E4F4C11-6204-47BC-820A-18AA32DDAD9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1.Task3", "lab1.Task3\lab1.Task3.csproj", "{8E4F4C11-6204-47BC-820A-18AA32DDAD9D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3", "lab3\lab3.csproj", "{BDBA0F1D-379E-436D-8E64-B7624114D783}"
 EndProject
@@ -37,11 +37,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab8", "lab8\lab8.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab9", "lab9\lab9.csproj", "{13A24C84-D906-44B6-92CD-4D88BF2B8F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1.Task4", "Task4\lab1.Task4.csproj", "{1ED6322A-9379-49CE-8028-B23A9DFD9034}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1.Task4", "lab1.Task4\lab1.Task4.csproj", "{1ED6322A-9379-49CE-8028-B23A9DFD9034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1.Task5BubbleSort", "Task5_BubbleSortusingProceduralProgramming\lab1.Task5BubbleSort.csproj", "{4B6703E0-1190-453E-8336-AE7BC39EEE72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1.Task5BubbleSort", "lab1.Task5BubbleSort\lab1.Task5BubbleSort.csproj", "{4B6703E0-1190-453E-8336-AE7BC39EEE72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1.Task5CustomDescendingOrder", "Task5_CustomDescendingOrderApplyingOOP\lab1.Task5CustomDescendingOrder.csproj", "{D6A2343D-6075-4A1C-B3A8-52905E467934}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1.Task5CustomDescendingOrder", "lab1.Task5CustomDescendingOrder\lab1.Task5CustomDescendingOrder.csproj", "{D6A2343D-6075-4A1C-B3A8-52905E467934}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
